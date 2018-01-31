@@ -1,0 +1,6 @@
+Message received from 0 intended for 11 - 
+  MWNL2_ASSIGNMENT(11.0)
+Message received from 0 intended for 11 - 
+  REQUEST({IMAGELENGTH=14, GAMENAME=TheHungerBaubles, WORLDHEIGHT=1536, WORLDWIDTH=1920})
+Message received from 0 intended for 11 - 
+  ERROR(ERROR: Command REGISTER({IMAGEINDEX=10.0, COLOR=[255.0, 255.0, 0.0], NAME=Pita Brett}) failed: Player already playing game.)
